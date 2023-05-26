@@ -7,7 +7,7 @@ def main():
 
     """
     主函数
-    :return: 0
+    执行just_do_it()开始训练
     """
     just_do_it()
 
